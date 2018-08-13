@@ -6,6 +6,7 @@
 
 ### Table of Contents
 * **[Accessibility standards](#accessibility-standards)**
+* **[Accessibility by project roles](#accessibility-by-project-roles)**
 * **[Courses](#courses)**
 * **[Developer Resources](#developer-resources)**
 * **[Design Resources](#design-resources)**
@@ -31,6 +32,13 @@
 * [W3C: WCAG 2.0 (11/2008](https://www.w3.org/TR/WCAG20/)
 * [WCAG 2.1 at a glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 * [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0)
+
+## Accessibility by project roles
+* [Product Manager](https://accessibility.digital.gov/product/getting-started/)
+* [Content Creator](https://accessibility.digital.gov/content-design/getting-started/)
+* [UX Designer](https://accessibility.digital.gov/ux/getting-started/)
+* [Visiual Designer](https://accessibility.digital.gov/visual-design/getting-started/)
+* [Developer](https://accessibility.digital.gov/front-end/getting-started/)
 
 ## Courses
 * [Accessibility Checklist for different project roles](http://accessibility.voxmedia.com/)
