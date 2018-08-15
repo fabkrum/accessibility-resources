@@ -21,10 +21,12 @@
 * **[Tools](#tools)**
   * [Browser Extensions](#browser-extensions)
   * [Professional Tools](#professional-tools)
+* **[Assistive Technologies](#assistive-technologies)  
   * [Screen Readers](#screen-readers)
-* **[Accessibility Information and Services](#accessibility-information-and-services)**
+  * [Switches](#switches)
+  * [Simulators (hardware)](#simulators)  
+* **[Accessibility Specialists](#accessibility-specialists)**
 * **[Data sources](#data-sources)**
-* **[Products](#products)**
 * **[Conferences and Events](#conferences-and-events)**
   
 ## Accessibility standards
@@ -74,6 +76,7 @@
 * [Accessibility for teams](https://developers.google.com/web/fundamentals/accessibility/a11y-for-teams), Rob Dodson, 07/2018
 * [Accessibility at trivago](https://tech.trivago.com/2017/09/26/accessibility-at-trivago/), Ian Devlin, 09/2017
 * [Getting Started with Website Accessibility](https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92), Carie Fisher, 09/2017
+* [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/), Hampus Sethfors, 06/2017
 * [8 things parenting taught me about accessibility](http://simplyaccessible.com/article/8-things-parenting-taught-accessibility/), Melanie Jones, 01/2017
 * [Accessible maps on iOS](https://blog.mapbox.com/accessible-maps-on-ios-2147e755c4ac), Minh Nguyễn, 08/2016
 * [GOV UK accessibility posters](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
@@ -89,12 +92,19 @@
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/), 06/2018
 
 ### Design
-* [Accessibility for Visual Design](http://www.uxbooth.com/articles/accessibility-visual-design/), Nick Babich, 06/2017
+* [Hand tremors and the giant-button-problem](https://axesslab.com/hand-tremors/), Hampus Sethfors, 03/2018
+* [Practical accessibility improvements](https://axesslab.com/practical-accessibility-improvements/), Hampus Sethfors, 12/2017
+* [Trends that exclude](https://axesslab.com/trends/), Hampus Sethfors, 10/2017
+* [Accessibility for visual design](http://www.uxbooth.com/articles/accessibility-visual-design/), Nick Babich, 06/2017
 * [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/), Karwai Pun, 09/2016
 * [Accessible UI Components For The Web](https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67), Addy Osmani, 07/2016 
 * [Ways to Make a UI Accessible](https://medium.com/fed-or-dead/ways-to-make-a-ui-accessible-part-i-84b5088acfb7), Chris Pearce, 06/2016
 * [Improving The Color Accessibility For Color-Blind Users](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/), Adam Silver, 06/2016
 * [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b), Jesse Hausler, 04/2015
+* [Should I use a carousel?](http://shouldiuseacarousel.com/)
+
+### Content
+* [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/), Daniel Göransson, 10/2017
 
 ### Testing
 * [A smartphone accessibility primer; or, how I learned to stop worrying and master mobile accessibility](http://simplyaccessible.com/article/smartphone-a11y-primer-1/), Kara Van Roekel, 10/2017
@@ -141,6 +151,7 @@
 
 ## Tools
 * [WAI Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+* [Top seven free color contrast checkers & analyzers](https://axesslab.com/top-color-contrast-checkers/), Hampus Sethfors, 06/2017
 
 ### Browser Extensions
 * [Funkify disability simulators](https://www.funkify.org/simulators/), [Chrome](https://chrome.google.com/webstore/detail/funkify-disability-simula/ojcijjdchelkddboickefhnbdpeajdjg?hl=en)
@@ -157,6 +168,9 @@
 * [Siteimprove](https://siteimprove.com/en/content-accessibility/)
 * [Pa11y](http://pa11y.org/)
 * [TotalValidator Pro](https://www.totalvalidator.com/), Total Validator will validate your HTML and CSS, check that pages are accessible, run a spell check, and check for broken links.
+* [Stark – The color-blind simulator and contrast checker for Sketch.](http://www.getstark.co/)
+
+## Assistive Technologies
 
 ### Screen Readers
 * [JAWS](https://www.freedomscientific.com/Products/Blindness/JAWS)
@@ -168,12 +182,21 @@
 * [ChromeVox - Chrome Browser](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
 * [ZoomText](https://www.zoomtext.com/)
 
-## Accessibility Information and Services
+### Switches
+* [Assistive Technologies – The Switch](https://axesslab.com/switches/)
+* [Assistive Technologies](https://www.ablenetinc.com/)
+
+### Simulators (hardware)
+* [Low Vision Simulator Glasses (real glasses/expensiv)](https://www.lowvisionsimulators.com/product/full-set)
+* [Low Vision Simulator Glasses (plastic/cheap)](http://www.perspektrum.de/index2.htm)
+
+## Accessibility Specialists
 * [W3C: Web Accessibility Initiative](https://www.w3.org/WAI/)
 * [Apple Accessibility](https://www.apple.com/lae/accessibility/)
 * [Google Accessibility](https://www.google.com/accessibility/)
 * [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility)
 * [GOV UK accessibility blog](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
+* [Axesslab](https://axesslab.com/) (Sweden)
 * [Einfach für alle](https://www.einfach-fuer-alle.de/) (only in German)
 * [Simply Accessibile](http://simplyaccessible.com/contact/) (USA, Canada)
 * [Bureau of internet accessibility](https://www.boia.org/)
@@ -194,11 +217,6 @@
 * [Website Accessibility Disability Statistics](https://www.powermapper.com/blog/website-accessibility-disability-statistics/)
 * [EU disability statistics](http://ec.europa.eu/eurostat/statistics-explained/index.php/Disability_statistics): 1 person out of 7 in age group 15-64 has a basic disability
 * [WHO health statistic](http://www.who.int/en/news-room/fact-sheets/detail/disability-and-health): Approximately 15% of all people have a disability. This is more than 1.000.000.000 people worldwide
-
-## Products
-* [Low Vision Simulator Glasses (real glasses/expensiv)](https://www.lowvisionsimulators.com/product/full-set)
-* [Low Vision Simulator Glasses (plastic/cheap)](http://www.perspektrum.de/index2.htm)
-* [Assistive Technologies](https://www.ablenetinc.com/)
 
 ## Conferences and Events
 * [A11yproject Events](https://a11yproject.com/events)
