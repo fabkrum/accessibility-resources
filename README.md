@@ -86,6 +86,7 @@
 * [Easy steps for including disabled people in your workforce](https://developer.paciellogroup.com/blog/2017/06/easy-steps-for-including-disabled-people-in-your-workforce/)
 
 ### Development
+* [Your skip links are broken](https://axesslab.com/skip-links/), Hampus Sethfors, 06/2018
 * [A Responsive Accessible Table](http://adrianroselli.com/2017/11/a-responsive-accessible-table.html), Adrian Roselli, 11/2017
 * [Building inclusive Toggle Buttons](https://www.smashingmagazine.com/2017/09/building-inclusive-toggle-buttons/), Heydon Pickering, 09/2017
 * [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/), Ire Aderinokun, 10/2016
