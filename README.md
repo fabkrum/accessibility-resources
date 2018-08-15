@@ -166,6 +166,7 @@
 * [VoiceOver - iOS](https://www.apple.com/lae/accessibility/iphone/vision/)
 * [TalkBack - Android](https://support.google.com/accessibility/android/answer/6283677?hl=en&ref_topic=3529932)
 * [ChromeVox - Chrome Browser](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
+* [ZoomText](https://www.zoomtext.com/)
 
 ## Accessibility Information and Services
 * [W3C: Web Accessibility Initiative](https://www.w3.org/WAI/)
