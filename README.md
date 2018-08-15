@@ -21,7 +21,7 @@
 * **[Tools](#tools)**
   * [Browser Extensions](#browser-extensions)
   * [Professional Tools](#professional-tools)
-* **[Assistive Technologies](#assistive-technologies)  
+* **[Assistive Technologies](#assistive-technologies)**
   * [Screen Readers](#screen-readers)
   * [Switches](#switches)
   * [Simulators (hardware)](#simulators)  
