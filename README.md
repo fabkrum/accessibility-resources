@@ -88,8 +88,11 @@
 
 ### Development
 * [Your skip links are broken](https://axesslab.com/skip-links/), Hampus Sethfors, 06/2018
+* [Title Texts Suck](https://axesslab.com/title-texts-suck/), Hampus Sethfors, 02/2018
+* [Captchas Suck](https://axesslab.com/captchas-suck/), Hampus Sethfors, 11/2017
 * [A Responsive Accessible Table](http://adrianroselli.com/2017/11/a-responsive-accessible-table.html), Adrian Roselli, 11/2017
 * [Building inclusive Toggle Buttons](https://www.smashingmagazine.com/2017/09/building-inclusive-toggle-buttons/), Heydon Pickering, 09/2017
+* [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/), Hampus Sethfors, 07/2017
 * [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/), Ire Aderinokun, 10/2016
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/), 06/2018
 
@@ -97,6 +100,7 @@
 * [Hand tremors and the giant-button-problem](https://axesslab.com/hand-tremors/), Hampus Sethfors, 03/2018
 * [Practical accessibility improvements](https://axesslab.com/practical-accessibility-improvements/), Hampus Sethfors, 12/2017
 * [Trends that exclude](https://axesslab.com/trends/), Hampus Sethfors, 10/2017
+* [How to make your site accessible for screen magnifiers](https://axesslab.com/make-site-accessible-screen-magnifiers/), Daniel Göransson, 07/2017
 * [Accessibility for visual design](http://www.uxbooth.com/articles/accessibility-visual-design/), Nick Babich, 06/2017
 * [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/), Karwai Pun, 09/2016
 * [Accessible UI Components For The Web](https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67), Addy Osmani, 07/2016 
