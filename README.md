@@ -160,6 +160,7 @@
 * [Axesslab - Articles](https://axesslab.com/articles/)
 * [WebAxe](http://www.webaxe.org/)
 * [Intopia Blog](http://intopia.digital/articles/)
+* [Better living through technology](https://bltt.org/)
 
 ## Tools
 * [WAI Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
@@ -183,7 +184,6 @@
 * [Stark – The color-blind simulator and contrast checker for Sketch.](http://www.getstark.co/)
 
 ## Assistive Technologies
-* [Better living through technology](https://bltt.org/)
 
 ### Screen Readers
 * [JAWS](https://www.freedomscientific.com/Products/Blindness/JAWS)
