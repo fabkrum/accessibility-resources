@@ -35,6 +35,7 @@
 * [W3C: WCAG 2.0 (11/2008](https://www.w3.org/TR/WCAG20/)
 * [WCAG 2.1 at a glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 * [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0)
+* [WCAG 2.1 Map by Intopia](http://intopia.digital/pdf/WCAG2_1Map.pdf)
 
 ## Accessibility by project roles
 * [Product Manager](https://accessibility.digital.gov/product/getting-started/)
@@ -53,6 +54,7 @@
 
 ## Developer resources
 * [HTML5 Accessibility Status of common browsers](https://www.html5accessibility.com/)
+* [Mozilla Web Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 * [Inclusive Components - pattern library](https://inclusive-components.design/)
 * [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
 * [The A11y Project](https://a11yproject.com/)
@@ -113,6 +115,7 @@
 * [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/), Daniel Göransson, 10/2017
 
 ### Testing
+* [Using Pa11y CI and Drone as accessibility testing gatekeepers](Using Pa11y CI and Drone as accessibility testing gatekeepers), Dominic Fraser (07/2018)
 * [A smartphone accessibility primer; or, how I learned to stop worrying and master mobile accessibility](http://simplyaccessible.com/article/smartphone-a11y-primer-1/), Kara Van Roekel, 10/2017
 * [Using VoiceOver to Evaluate Web Accessibility](https://webaim.org/articles/voiceover/), 06/2017
 * [Three things you should know before using VoiceOver for testing](https://webaim.org/blog/three-things-voiceover/), Jon Whiting, 08/2016
@@ -155,6 +158,8 @@
 * [Adrian Roselli](http://adrianroselli.com/)
 * [ADA Title III News & Insights (US law)](https://www.adatitleiii.com/)
 * [Axesslab - Articles](https://axesslab.com/articles/)
+* [WebAxe](http://www.webaxe.org/)
+* [Intopia Blog](http://intopia.digital/articles/)
 
 ## Tools
 * [WAI Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
@@ -212,6 +217,7 @@
 * [Deque](https://www.deque.com/) (USA)
 * [AccessibilityOz](https://www.accessibilityoz.com/) (Australia, USA)
 * [Section508 - GSA Government-wide IT Accessibility Program](https://www.section508.gov/)
+* [Intopia](http://intopia.digital/) (Australia)
 
 ## Data sources
 * [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/), 11/2017
@@ -232,3 +238,6 @@
 * [Inclusive Design 24](https://www.inclusivedesign24.org/)
 * [DSAI Conference, Europe](http://www.dsai.ws/)
 * [Global Accessibility Awareness Day (May 17)](http://globalaccessibilityawarenessday.org/)
+* [#a11yTOConf, Toronto, Canada](http://conf.a11yto.com/)
+* [A11yCamp, Melburne, Australia](http://a11ycamp.org.au/)
+* [Accessibility Camp Chicago, USA](https://www.a11ycampchi.org/)
