@@ -83,6 +83,7 @@
 * [8 things parenting taught me about accessibility](http://simplyaccessible.com/article/8-things-parenting-taught-accessibility/), Melanie Jones, 01/2017
 * [Accessible maps on iOS](https://blog.mapbox.com/accessible-maps-on-ios-2147e755c4ac), Minh Nguyễn, 08/2016
 * [GOV UK accessibility posters](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
+* [BBC - How to design for accessibility](http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility)
 * [Create useful accessibility bug tickets](https://www.icloud.com/keynote/000HwxkEIxf_0kLV_uddz4F2Q#Creating_Accessibility_Reports_Designers_%26_Developers_Will_Love)
 * [I Used The Web For A Day With Just A Keyboard](https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/), 06/2018
 * [Techniques for The Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://rawgit.com/w3c/coga/master/techniques/index.html)
