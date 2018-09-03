@@ -87,6 +87,7 @@
 * [I Used The Web For A Day With Just A Keyboard](https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/), 06/2018
 * [Techniques for The Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://rawgit.com/w3c/coga/master/techniques/index.html)
 * [Easy steps for including disabled people in your workforce](https://developer.paciellogroup.com/blog/2017/06/easy-steps-for-including-disabled-people-in-your-workforce/)
+* [Accessibility Lipstick on a Usability Pig](https://webaim.org/blog/accessibility-lipstick-on-a-usability-pig/), Jared Smith, 03/2014
 
 ### Development
 * [Your skip links are broken](https://axesslab.com/skip-links/), Hampus Sethfors, 06/2018
@@ -141,11 +142,12 @@
 * [Accessibility by Design - Conference Talks 2018](https://accessiblebydesign.org/)
 * [Creating accessible Apps](https://developer.apple.com/videos/play/wwdc2018/226/), Apple
 * [A11ycasts](https://www.youtube.com/results?search_query=a11ycasts), Rob Dodson (Google)
-* [Technologic (Human Afterall): Accessibility mix](https://vimeo.com/194964027), Léonie Watson, 2017
 * [W3C Web Accessibility Initiative (WAI)](https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA)
 * [What’s new in Android accessibility](https://www.youtube.com/watch?v=Lcoc4aCLfqI), Google I/O '18
 * [What's new in web accessibility](https://www.youtube.com/watch?v=wkvslBGkhZY), Rob Dotson, Google I/O '18
 * [Accessibility UX Insights: Designing for the Next Billion Users](https://www.youtube.com/watch?v=38fbB8wCPzg&t=1447s), Google I/O '17
+* [Technologic (Human Afterall): Accessibility mix](https://vimeo.com/194964027), Léonie Watson, 2017
+* [The velvet rope](https://www.youtube.com/watch?v=rZExvZEjvtk), Henny Swan, 07/2016
 * [Developer's Guide to Accessibility Mechanics](https://www.youtube.com/watch?v=qi0tY60Hd6M), Leonie Watson, 07/2016
 * [How to use a switch](https://www.youtube.com/watch?v=5RyfCislbVM), 
 
