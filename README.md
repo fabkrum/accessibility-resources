@@ -101,6 +101,7 @@
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/), 06/2018
 
 ### Design
+* [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88), Kevyn Arnott, 09/2018
 * [Hand tremors and the giant-button-problem](https://axesslab.com/hand-tremors/), Hampus Sethfors, 03/2018
 * [Practical accessibility improvements](https://axesslab.com/practical-accessibility-improvements/), Hampus Sethfors, 12/2017
 * [Trends that exclude](https://axesslab.com/trends/), Hampus Sethfors, 10/2017
@@ -168,6 +169,7 @@
 ## Tools
 * [WAI Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 * [Top seven free color contrast checkers & analyzers](https://axesslab.com/top-color-contrast-checkers/), Hampus Sethfors, 06/2017
+* [ColorBox](https://www.colorbox.io/), Lyft Design
 
 ### Browser Extensions
 * [Funkify disability simulators](https://www.funkify.org/simulators/), [Chrome](https://chrome.google.com/webstore/detail/funkify-disability-simula/ojcijjdchelkddboickefhnbdpeajdjg?hl=en)
