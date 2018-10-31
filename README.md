@@ -70,7 +70,7 @@
 * [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/), Ire Aderinokun, 06/2015
 
 ## Design Resources
-* [Microsoft: Inclusive Design: Cards, Movies, PDF](https://www.microsoft.com/design/inclusive/))
+* [Microsoft: Inclusive Design: Cards, Movies, PDF](https://www.microsoft.com/design/inclusive/)
 * [Posters: Dos and don'ts on designing for accessibility](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
 
 ## Articles
@@ -132,11 +132,13 @@
 * [Web accessibility will now be the law of the land in Europe](https://www.euractiv.com/section/digital/opinion/web-accessibility-will-now-be-the-law-of-the-land-in-europe/)
 
 ## Books
+* [Form Design Patterns](https://www.smashingmagazine.com/2018/10/form-design-patterns-release/) by Adam Silver, Smashing Magazine (10/2018)
 * [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) by Heydon Pickering, Smashing Magazine (10/2016)
 * [Accessibility for everyone](https://abookapart.com/products/accessibility-for-everyone) by Laura Kalbag, A Book Apart (09/2017)
 * [A web for everyone](https://rosenfeldmedia.com/books/a-web-for-everyone/) by Sarah Horton & Whitney Quesenbery (01/2014)
 
 ## Videos
+* [Marcy Sutton on Accessibility Audit](https://vimeo.com/292467043), 10/2018
 * [Change is hard, automating Web Accessibility isn't](https://www.youtube.com/watch?v=-yfnxEAzOH0), 07/2018
 * [A11Y Talks - What’s new with WCAG 2.1](https://www.youtube.com/watch?v=6uCCDTwpIlo), 06/2018
 * [An Introduction to Screen Readers, NVDA/iOS](https://www.youtube.com/watch?v=y0m7VEHoXMI), 05/2018
@@ -247,3 +249,5 @@
 * [#a11yTOConf, Toronto, Canada](http://conf.a11yto.com/)
 * [A11yCamp, Melburne, Australia](http://a11ycamp.org.au/)
 * [Accessibility Camp Chicago, USA](https://www.a11ycampchi.org/)
+* [Accessibility Club Conference, Berlin, Germany](https://beyondtellerrand.com/events/berlin-2018/side-events/accessibility-club-conference)
+* [Munich Accessibility Meetup](https://www.meetup.com/Munich-Accessibility-Meetup/)
