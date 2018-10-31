@@ -240,6 +240,7 @@
 * [WHO health statistic](http://www.who.int/en/news-room/fact-sheets/detail/disability-and-health): Approximately 15% of all people have a disability. This is more than 1.000.000.000 people worldwide
 
 ## Conferences and Events
+* [Mindscreen Accessibility Event Calendar](https://www.mindscreen.de/web-accessibility-events)
 * [A11yproject Events](https://a11yproject.com/events)
 * [Web4All, San Francisco, USA](http://www.w4a.info/)
 * [Web Accessibility Summit, Columbia, USA](http://webaccessibilitysummit.org/)
