@@ -77,6 +77,7 @@
 
 ### General
 * [Accessibility for teams](https://developers.google.com/web/fundamentals/accessibility/a11y-for-teams), Rob Dodson, 07/2018
+* [I Used The Web For A Day With Just A Keyboard](https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/), 06/2018
 * [Accessibility at trivago](https://tech.trivago.com/2017/09/26/accessibility-at-trivago/), Ian Devlin, 09/2017
 * [Getting Started with Website Accessibility](https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92), Carie Fisher, 09/2017
 * [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/), Hampus Sethfors, 06/2017
@@ -85,7 +86,6 @@
 * [GOV UK accessibility posters](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
 * [BBC - How to design for accessibility](http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility)
 * [Create useful accessibility bug tickets](https://www.icloud.com/keynote/000HwxkEIxf_0kLV_uddz4F2Q#Creating_Accessibility_Reports_Designers_%26_Developers_Will_Love)
-* [I Used The Web For A Day With Just A Keyboard](https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/), 06/2018
 * [Techniques for The Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://rawgit.com/w3c/coga/master/techniques/index.html)
 * [Easy steps for including disabled people in your workforce](https://developer.paciellogroup.com/blog/2017/06/easy-steps-for-including-disabled-people-in-your-workforce/)
 * [Accessibility Lipstick on a Usability Pig](https://webaim.org/blog/accessibility-lipstick-on-a-usability-pig/), Jared Smith, 03/2014
