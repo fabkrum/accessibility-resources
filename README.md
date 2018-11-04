@@ -92,6 +92,7 @@
 
 ### Development
 * [Your skip links are broken](https://axesslab.com/skip-links/), Hampus Sethfors, 06/2018
+* [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/), 06/2018
 * [Title Texts Suck](https://axesslab.com/title-texts-suck/), Hampus Sethfors, 02/2018
 * [Captchas Suck](https://axesslab.com/captchas-suck/), Hampus Sethfors, 11/2017
 * [A Responsive Accessible Table](http://adrianroselli.com/2017/11/a-responsive-accessible-table.html), Adrian Roselli, 11/2017
@@ -100,7 +101,6 @@
 * [Responsive Design for Motion](https://webkit.org/blog/7551/responsive-design-for-motion/), James Craig, 05/2017
 * [An Introduction to the Reduced Motion Media Query](https://css-tricks.com/introduction-reduced-motion-media-query/), Eric Bailey, 02/2017
 * [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/), Ire Aderinokun, 10/2016
-* [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/), 06/2018
 
 ### Design
 * [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88), Kevyn Arnott, 09/2018
