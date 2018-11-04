@@ -157,6 +157,7 @@
 
 ## Blogs
 * [ThePacielloGroup Blog](https://developer.paciellogroup.com/blog/)
+* [GOV.UK: Accessibility Blog](https://accessibility.blog.gov.uk/)
 * [GOV.UK: Design notes](https://designnotes.blog.gov.uk/)
 * [Heydon Works](http://www.heydonworks.com/)
 * [Tink - Leonie Watson](https://tink.uk/)
