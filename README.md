@@ -97,6 +97,8 @@
 * [A Responsive Accessible Table](http://adrianroselli.com/2017/11/a-responsive-accessible-table.html), Adrian Roselli, 11/2017
 * [Building inclusive Toggle Buttons](https://www.smashingmagazine.com/2017/09/building-inclusive-toggle-buttons/), Heydon Pickering, 09/2017
 * [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/), Hampus Sethfors, 07/2017
+* [Responsive Design for Motion](https://webkit.org/blog/7551/responsive-design-for-motion/), James Craig, 05/2017
+* [An Introduction to the Reduced Motion Media Query](https://css-tricks.com/introduction-reduced-motion-media-query/), Eric Bailey, 02/2017
 * [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/), Ire Aderinokun, 10/2016
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/), 06/2018
 
@@ -111,6 +113,7 @@
 * [Accessible UI Components For The Web](https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67), Addy Osmani, 07/2016 
 * [Ways to Make a UI Accessible](https://medium.com/fed-or-dead/ways-to-make-a-ui-accessible-part-i-84b5088acfb7), Chris Pearce, 06/2016
 * [Improving The Color Accessibility For Color-Blind Users](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/), Adam Silver, 06/2016
+* [Designing Safer Web Animation For Motion Sensitivity](https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity), Val Head, 09/2015
 * [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b), Jesse Hausler, 04/2015
 * [Should I use a carousel?](http://shouldiuseacarousel.com/)
 
