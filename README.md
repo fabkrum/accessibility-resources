@@ -141,6 +141,7 @@
 * [A web for everyone](https://rosenfeldmedia.com/books/a-web-for-everyone/) by Sarah Horton & Whitney Quesenbery (01/2014)
 
 ## Videos
+* [Access - A short documentary about accessibility and universal design featuring Cory Joseph](https://accessmovie.org/), 01/2019
 * [Marcy Sutton on Accessibility Audit](https://vimeo.com/292467043), 10/2018
 * [Change is hard, automating Web Accessibility isn't](https://www.youtube.com/watch?v=-yfnxEAzOH0), 07/2018
 * [A11Y Talks - What’s new with WCAG 2.1](https://www.youtube.com/watch?v=6uCCDTwpIlo), 06/2018
