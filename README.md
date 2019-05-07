@@ -146,6 +146,7 @@
 * [Change is hard, automating Web Accessibility isn't](https://www.youtube.com/watch?v=-yfnxEAzOH0), 07/2018
 * [A11Y Talks - What’s new with WCAG 2.1](https://www.youtube.com/watch?v=6uCCDTwpIlo), 06/2018
 * [An Introduction to Screen Readers, NVDA/iOS](https://www.youtube.com/watch?v=y0m7VEHoXMI), 05/2018
+* [How to use a switch](https://www.youtube.com/watch?v=5RyfCislbVM), Christopher Hills, 04/2018
 * [A11Y Talks - Embracing Plain Language for Better Accessibility](https://www.youtube.com/watch?v=X7bUvAzpNjo), 01/2018
 * [Accessibility by Design - Conference Talks 2018](https://accessiblebydesign.org/)
 * [Creating accessible Apps](https://developer.apple.com/videos/play/wwdc2018/226/), Apple
@@ -157,7 +158,7 @@
 * [Technologic (Human Afterall): Accessibility mix](https://vimeo.com/194964027), Léonie Watson, 2017
 * [The velvet rope](https://www.youtube.com/watch?v=rZExvZEjvtk), Henny Swan, 07/2016
 * [Developer's Guide to Accessibility Mechanics](https://www.youtube.com/watch?v=qi0tY60Hd6M), Leonie Watson, 07/2016
-* [How to use a switch](https://www.youtube.com/watch?v=5RyfCislbVM), 
+* [Death to icon fonts](https://www.youtube.com/watch?v=9xXBYcWgCHA), Seren Davies, 10/2015
 
 ## Blogs
 * [ThePacielloGroup Blog](https://developer.paciellogroup.com/blog/)
