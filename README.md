@@ -175,6 +175,7 @@
 * [Better living through technology](https://bltt.org/)
 
 ## Tools
+* [Microsoft - I see AI](https://www.microsoft.com/en-us/ai/seeing-ai)
 * [WAI Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 * [Top seven free color contrast checkers & analyzers](https://axesslab.com/top-color-contrast-checkers/), Hampus Sethfors, 06/2017
 * [ColorBox](https://www.colorbox.io/), Lyft Design
