@@ -180,6 +180,7 @@
 * [ColorBox](https://www.colorbox.io/), Lyft Design
 
 ### Browser Extensions
+* [Microsoft Accessibility Insights](https://accessibilityinsights.io/)
 * [Funkify disability simulators](https://www.funkify.org/simulators/), [Chrome](https://chrome.google.com/webstore/detail/funkify-disability-simula/ojcijjdchelkddboickefhnbdpeajdjg?hl=en)
 * [AXE](https://www.deque.com/axe/), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/), [Chrome](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
 * [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/), [Chrome](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
