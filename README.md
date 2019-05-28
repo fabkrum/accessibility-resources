@@ -53,6 +53,7 @@
 * [Teach access Tutorial](https://teachaccess.github.io/tutorial/#/0) (free)
 
 ## Developer resources
+* [Patterns & Strategies for accessible web-apps](https://accessible-app.com/), 
 * [HTML5 Accessibility Status of common browsers](https://www.html5accessibility.com/)
 * [Mozilla Web Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 * [Inclusive Components - pattern library](https://inclusive-components.design/)
