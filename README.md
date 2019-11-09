@@ -142,6 +142,7 @@
 * [A web for everyone](https://rosenfeldmedia.com/books/a-web-for-everyone/) by Sarah Horton & Whitney Quesenbery (01/2014)
 
 ## Videos
+* [Design for Accessibility](https://www.youtube.com/watch?v=cQL2dphxM-I), Núria Peña, 10/2019
 * [Access - A short documentary about accessibility and universal design featuring Cory Joseph](https://accessmovie.org/), 01/2019
 * [Marcy Sutton on Accessibility Audit](https://vimeo.com/292467043), 10/2018
 * [Change is hard, automating Web Accessibility isn't](https://www.youtube.com/watch?v=-yfnxEAzOH0), 07/2018
