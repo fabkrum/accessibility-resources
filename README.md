@@ -181,6 +181,7 @@
 * [WAI Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 * [Top seven free color contrast checkers & analyzers](https://axesslab.com/top-color-contrast-checkers/), Hampus Sethfors, 06/2017
 * [ColorBox](https://www.colorbox.io/), Lyft Design
+* [Leonardo Color](https://leonardocolor.io/)
 
 ### Browser Extensions
 * [Microsoft Accessibility Insights](https://accessibilityinsights.io/)
@@ -238,6 +239,7 @@
 * [Intopia](http://intopia.digital/) (Australia)
 
 ## Data sources
+* [Screen Reader User Survey #8 Results](https://webaim.org/projects/screenreadersurvey8/), 09/2019
 * [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/), 11/2017
 * [Annual Disability Statistics Compendium (US)](https://disabilitycompendium.org/)
 * [Colour Blindness (US)](https://www.nei.nih.gov/health/color_blindness/facts_about): 1 in 12 men, 1 in 200 women, approximately 320.000.000 worldwide
