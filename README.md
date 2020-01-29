@@ -122,6 +122,7 @@
 * [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/), Daniel Göransson, 10/2017
 
 ### Testing
+* [BITV Prüfschritte (German)](https://www.bitvtest.de/bitv_test/das_testverfahren_im_detail/pruefschritte.html)
 * [Using Pa11y CI and Drone as accessibility testing gatekeepers](https://hackernoon.com/using-pa11y-ci-and-drone-as-accessibility-testing-gatekeepers-a8b5a3415227), Dominic Fraser (07/2018)
 * [A smartphone accessibility primer; or, how I learned to stop worrying and master mobile accessibility](http://simplyaccessible.com/article/smartphone-a11y-primer-1/), Kara Van Roekel, 10/2017
 * [Using VoiceOver to Evaluate Web Accessibility](https://webaim.org/articles/voiceover/), 06/2017
