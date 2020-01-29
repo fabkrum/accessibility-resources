@@ -136,6 +136,7 @@
 * [Web accessibility will now be the law of the land in Europe](https://www.euractiv.com/section/digital/opinion/web-accessibility-will-now-be-the-law-of-the-land-in-europe/)
 
 ## Books
+* [Inclusive Components](https://www.smashingmagazine.com/printed-books/inclusive-components/) by Heydon Pickering, Smashing Magazine (12/2019)
 * [Form Design Patterns](https://www.smashingmagazine.com/2018/10/form-design-patterns-release/) by Adam Silver, Smashing Magazine (10/2018)
 * [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) by Heydon Pickering, Smashing Magazine (10/2016)
 * [Accessibility for everyone](https://abookapart.com/products/accessibility-for-everyone) by Laura Kalbag, A Book Apart (09/2017)
